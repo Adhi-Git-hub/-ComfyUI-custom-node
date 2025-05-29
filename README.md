@@ -2,7 +2,7 @@
 
 A custom node for comparing two images side-by-side or vertically in ComfyUI workflows.
 
-![Node Preview](https://example.com/path/to/node-preview.png) *(add screenshot later)*
+![Node Preview]( https://github.com/Adhi-Git-hub/-ComfyUI-custom-node/blob/main/images/Screenshot%202025-05-29%20113808.png) 
 
 ## 🌟 Features
 - Horizontal or vertical comparison layouts
@@ -39,4 +39,4 @@ A custom node for comparing two images side-by-side or vertically in ComfyUI wor
 3. Adjust settings as needed
 4. Run your workflow
 
-![Example Workflow](https://example.com/path/to/workflow.png) *(add workflow screenshot later)*
+![Example Workflow]( https://github.com/Adhi-Git-hub/-ComfyUI-custom-node/blob/main/images/Screenshot%202025-05-29%20113801.png) 
