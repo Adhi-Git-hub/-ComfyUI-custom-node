@@ -14,7 +14,8 @@ A custom node for comparing two images side-by-side or vertically in ComfyUI wor
 ## 📦 Installation
 1. Clone or download this repository
 2. Place the `my_custom_nodes` folder in:ComfyUI/custom_nodes/
-3. Restart ComfyUI
+![ file strcutre](https://github.com/Adhi-Git-hub/-ComfyUI-custom-node/blob/main/images/Screenshot%202025-05-29%20155157.png) 
+4. Restart ComfyUI
 
 ## 🛠️ Node Reference
 
